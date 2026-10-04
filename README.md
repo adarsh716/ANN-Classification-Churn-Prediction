@@ -2,6 +2,8 @@
 
 A Streamlit application that estimates a bank customer's probability of leaving, using a trained artificial neural network. Enter the customer's profile in the form to see a churn probability and a simple prediction at the 0.5 threshold.
 
+Live app: https://ann-classification-churn-prediction-iftku5l7efmqj4qxnqjakh.streamlit.app/
+
 ![Customer Churn Prediction Streamlit app](image.png)
 
 ## Run the app
